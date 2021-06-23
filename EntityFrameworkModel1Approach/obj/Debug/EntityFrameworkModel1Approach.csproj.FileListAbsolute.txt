@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\EntityFrameworkModel1Approach\EntityFrameworkModel1Approach\bin\Debug\EntityFrameworkModel1Approach.exe.config
+C:\Users\lenovo\source\repos\EntityFrameworkModel1Approach\EntityFrameworkModel1Approach\bin\Debug\EntityFrameworkModel1Approach.exe
+C:\Users\lenovo\source\repos\EntityFrameworkModel1Approach\EntityFrameworkModel1Approach\bin\Debug\EntityFrameworkModel1Approach.pdb
+C:\Users\lenovo\source\repos\EntityFrameworkModel1Approach\EntityFrameworkModel1Approach\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\source\repos\EntityFrameworkModel1Approach\EntityFrameworkModel1Approach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\source\repos\EntityFrameworkModel1Approach\EntityFrameworkModel1Approach\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\source\repos\EntityFrameworkModel1Approach\EntityFrameworkModel1Approach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\source\repos\EntityFrameworkModel1Approach\EntityFrameworkModel1Approach\obj\Debug\EntityFrameworkModel1Approach.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\EntityFrameworkModel1Approach\EntityFrameworkModel1Approach\obj\Debug\EntityFrameworkModel1Approach.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\EntityFrameworkModel1Approach\EntityFrameworkModel1Approach\obj\Debug\EntityFrameworkModel1Approach.csproj.CopyComplete
+C:\Users\lenovo\source\repos\EntityFrameworkModel1Approach\EntityFrameworkModel1Approach\obj\Debug\EntityFrameworkModel1Approach.exe
+C:\Users\lenovo\source\repos\EntityFrameworkModel1Approach\EntityFrameworkModel1Approach\obj\Debug\EntityFrameworkModel1Approach.pdb
